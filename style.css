@@ -1,0 +1,21 @@
+.col-2 img {
+    height: 120px;
+}
+/* Komşu ülke kartlarına pointer (tıklanabilir) imleci ekle */
+.neighbor-card {
+    cursor: pointer;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+/* Kartlara hover efekti ekle */
+.neighbor-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Kart başlıklarını daha belirgin hale getir */
+.card-title {
+    font-size: 1rem;
+    font-weight: bold;
+    text-align: center;
+}
