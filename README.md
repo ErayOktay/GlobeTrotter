@@ -7,7 +7,7 @@ Komşu Ülkeler: Seçilen ülkenin komşularını görün ve tıklayarak onları
 Interaktif Deneyim: Kullanıcı dostu arayüz ile dünya turuna çıkın.
 Responsive Tasarım: Bootstrap ile mobil ve masaüstü cihazlarda sorunsuz çalışır.
 
-![](Ekran görüntüsü 2025-06-27 215758.png)
+![GlobeTrotter](images/Ss.png)
 
 Kurulum
 
